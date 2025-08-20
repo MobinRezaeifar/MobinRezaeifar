@@ -1,5 +1,6 @@
 <h1 align="center">Mobin Rezaeifar</h1>
 <p align="center"><b>Tech Lead & Software Architect</b> · I build teams & systems that ship</p>
+<sub>Currently no public repos due to active involvement in company projects.</sub>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mbnrz"><img src="https://img.shields.io/badge/LinkedIn-mbnrz-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -62,8 +63,6 @@ TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Ka
 - dev.to: https://dev.to/mobinrezaeifar  
 - Stack Overflow: https://stackoverflow.com/users/21860347  
 - Email: mbnrz.dev@gmail.com
-
-<sub>Currently no public repos due to active involvement in company projects.</sub>
 
 <details>
   <summary>Optional GitHub stats (collapsed)</summary>
