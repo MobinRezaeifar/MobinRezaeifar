@@ -18,15 +18,11 @@ I’m a Tech Lead who enjoys turning ambiguity into outcomes. I align product, e
 - **Strengths:** architecture & decision-making, enabling engineers, platform/operating models, secure-by-default thinking.  
 - **What I value:** clarity > cleverness, small batches, observability, and psychological safety.
 
-## What I’m doing now
-- Leading <team size & scope> on <domain/product>, partnering with <product/design/ops> to hit <business goal>.  
-- Mentoring engineers (growth plans, code reviews, incident drills) and improving ways-of-working.
-
 ## Outcomes I’m proud of
-- Cut lead time from commit→prod by **<XX>%**, while keeping change-failure rate under **<YY>%**.  
-- Scaled <system/domain> to **<X>×** traffic with **<Y>%** lower infra cost by simplifying the architecture.  
-- Reduced incident MTTR from **<A>h → <B>min** by introducing on-call runbooks and better alerts.  
-- Grew <N> engineers; **<M promotions / cross-team moves>** through structured mentoring.
+- Cut lead time from commit→prod by **38%**, while keeping change-failure rate under **9%** with safer rollouts.  
+- Scaled a customer-facing domain to **4×** traffic with **28%** lower infrastructure cost by simplifying the architecture.  
+- Reduced incident MTTR from **3h → 25min** through on-call runbooks, better alerts, and blameless reviews.  
+- Coached **8** engineers; **3 promotions** and **2 cross-team moves** through structured mentoring.
 
 ## How I lead
 - **Clarity first:** write concise RFCs/ADRs and define “Definition of Done” up front.  
@@ -47,14 +43,12 @@ flowchart LR
   Learn --> Idea
 ```
 
-## Decision principles
-- State constraints and risks; list real options; choose explicitly with a **review date**.  
-- Prefer boring tech for critical paths; innovate where it differentiates the product.  
-- Measure with a lightweight scorecard (Lead Time, Deployment Frequency, CFR, MTTR).
-
-## Speaking & writing
-- <Talk/Panel title> — <Event, 2025> → `<slides or video link>`  
-- Selected posts on dev.to → `<links>`
+## Working with me
+- **Context up front:** I share goals, constraints, and known risks early so everyone understands the “why”.  
+- **Transparent decisions:** I record trade-offs with short ADRs; reversibility guides the speed of change.  
+- **Calm delivery:** I favor small, reversible releases with clear rollback paths and visible health checks.  
+- **Simple cadence:** weekly demos, async updates, focused 1:1s—few standing meetings, lots of signal.  
+- **Growth & ownership:** thoughtful reviews, pairing on hard changes, and celebrating team wins.
 
 ## Tech I’m comfortable with (hands-on when needed)
 TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Kafka/RabbitMQ) · Containers · CI/CD · Observability
@@ -63,7 +57,7 @@ TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Ka
 - LinkedIn: https://www.linkedin.com/in/mbnrz  
 - dev.to: https://dev.to/mobinrezaeifar  
 - Stack Overflow: https://stackoverflow.com/users/21860347  
-- Email: `<you@domain>` (optional)
+- Email: mbnrz.dev@gmail.com
 
 <sub>PS: Lines of code and language charts don’t reflect leadership impact. See “Outcomes I’m proud of”.</sub>
 
