@@ -59,6 +59,8 @@ TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Ka
 - Stack Overflow: https://stackoverflow.com/users/21860347  
 - Email: mbnrz.dev@gmail.com
 
+<sub>Currently no public repos due to active involvement in company projects.</sub>
+
 <details>
   <summary>Optional GitHub stats (collapsed)</summary>
   <p align="left">
