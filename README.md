@@ -1,26 +1,60 @@
-<div align="center">
-  
-  <h1>Mobin Rezaeifar</h1>
-  <p>Full‑Stack Software Engineer</p>
+<h1 align="center">Mobin Rezaeifar</h1>
+<p align="center">Full-stack Developer • React/Next.js • TypeScript • .NET • DevOps</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=850&lines=Building+robust+web+%26+mobile+apps;React+%7C+Next.js+%7C+TypeScript+%7C+.NET+%7C+Node.js;Clean+architecture+%7C+DX+focused+UI%2FUX+%7C+DevOps" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mbnrz">
+    <img src="https://img.shields.io/badge/LinkedIn-mbnrz-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/mobinrezaeifar">
+    <img src="https://img.shields.io/badge/dev.to-@mobinrezaeifar-0A0A0A?logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mbnrz">
+    <img src="https://img.shields.io/badge/Instagram-@mbnrz-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/21860347">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-21860347-F48024?logo=stackoverflow&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mobinrezaeifar&label=Views&color=1f6feb" />
+</p>
 
-  <br/>
-  <a href="https://linkedin.com/in/mobinrezaeifar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/mobinrezaeifar"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/21860347/mobin-rezaeifar"><img src="https://img.shields.io/badge/Stack%20Overflow-F48024?logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mbnrz"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://komarev.com/ghpvc/?username=mobinrezaeifar&style=flat&color=lightgrey"><img src="https://komarev.com/ghpvc/?username=mobinrezaeifar&style=flat&color=lightgrey" /></a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Building+clean+UIs%2C+solid+APIs%2C+and+reliable+infra;React+%2F+Next.js+%7C+TypeScript+%7C+.NET+%7C+Node.js;Cloud+%26+Containers+%7C+CI%2FCD+%7C+Monitoring" />
+</p>
 
-<br/>
+### About
+- Crafting production apps with React/Next.js, TypeScript, and Tailwind
+- Backend with .NET and Node.js, event-driven patterns, Redis/RabbitMQ/Kafka
+- Containers, Nginx, GitHub Actions, Dockerized deployments
+- Focus on performance, DX, accessibility, and secure-by-default code
 
-### Toolbox
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,nodejs,express,dotnet,cs,postgres,mongodb,redis,prisma,nginx,docker,linux,git,github,gitlab,azure,aws,vercel,cloudflare,rabbitmq,kafka,flutter,dart,postman,jest,vitest&perline=11)](https://skillicons.dev)
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,redux,tailwind,html,css,nodejs,express,dotnet,cs,python,docker,nginx,linux,git,github,postgres,mysql,mongodb,sqlite,redis,rabbitmq,kafka,prisma,webpack,jest,vitest" />
+</p>
 
-### Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobinrezaeifar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="165" alt="top langs" />
-  <img src="https://streak-stats.demolab.com?user=mobinrezaeifar&theme=transparent&hide_border=true" height="165" alt="streak" />
-</div>
+### Highlights
+- Scalable SPAs and PWAs with SSR/ISR, app routing, and API routes
+- Real-time features with SignalR/WebSockets
+- Observability with structured logs, metrics, and alerting
+- CI/CD pipelines for test, lint, build, container, and deploy
+
+### GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mobinrezaeifar&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mobinrezaeifar&theme=transparent&hide_border=true" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+### Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinrezaeifar&theme=algolia&margin-w=10&no-frame=true" />
+</p>
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/mbnrz
+- dev.to: https://dev.to/mobinrezaeifar
+- Instagram: https://instagram.com/mbnrz
+- Stack Overflow: https://stackoverflow.com/users/21860347
