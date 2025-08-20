@@ -48,10 +48,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
-### Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinrezaeifar&theme=algolia&margin-w=10&no-frame=true" />
-</p>
+
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/mbnrz
