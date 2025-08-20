@@ -56,8 +56,15 @@ flowchart TD
 - **Simple cadence:** weekly demos, async updates, focused 1:1s—few standing meetings, lots of signal.  
 - **Growth & ownership:** thoughtful reviews, pairing on hard changes, and celebrating team wins.
 
-## Tech I’m comfortable with (hands-on when needed)
-TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Kafka/RabbitMQ) · Containers · CI/CD · Observability
+## Tech I’m comfortable with
+- **Architecture & Design:** Domain-Driven Design (DDD) · Event-Driven Architecture (EDA) · Microservices · Micro-Frontends · Clean Architecture · CQRS · Hexagonal / Onion Architecture  
+- **Backend Platforms:** .NET · Node.js · TypeScript · Event-driven systems (Kafka/RabbitMQ)  
+- **Frontend (when needed):** React · Next.js · Micro-Frontend orchestration  
+- **Datastores:** PostgreSQL · Redis  
+- **DevOps & Infrastructure:** Docker · Docker Swarm · Kubernetes · Helm · GitHub Actions · ArgoCD · Infrastructure as Code (Terraform)  
+- **Observability & Reliability:** Prometheus · Grafana · OpenTelemetry · SLO/SLA management · Chaos Engineering  
+- **Security & Compliance:** Secure-by-default design · OWASP best practices · Identity & Access Management · Secrets management (Vault/KMS) · Threat modeling · Zero Trust principles
+
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/mbnrz  
