@@ -1,56 +1,26 @@
-<h1 align="center">👨‍💻 Mobin Rezaeifar</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Apex CEO</h3>
+<div align="center">
+  
+  <h1>Mobin Rezaeifar</h1>
+  <p>Full‑Stack Software Engineer</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mobinrezaeifar&label=Profile%20Views&color=blue&style=flat" alt="mobinrezaeifar" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=850&lines=Building+robust+web+%26+mobile+apps;React+%7C+Next.js+%7C+TypeScript+%7C+.NET+%7C+Node.js;Clean+architecture+%7C+DX+focused+UI%2FUX+%7C+DevOps" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/mobinrezaeifar">
-    <img src="https://github-profile-trophy.vercel.app/?username=mobinrezaeifar&theme=matrix&no-frame=true&no-bg=true&margin-w=20" />
-  </a>
-</p>
+  <br/>
+  <a href="https://linkedin.com/in/mobinrezaeifar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/mobinrezaeifar"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21860347/mobin-rezaeifar"><img src="https://img.shields.io/badge/Stack%20Overflow-F48024?logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mbnrz"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://komarev.com/ghpvc/?username=mobinrezaeifar&style=flat&color=lightgrey"><img src="https://komarev.com/ghpvc/?username=mobinrezaeifar&style=flat&color=lightgrey" /></a>
+</div>
 
----
+<br/>
 
-### 🔗 Connect With Me
+### Toolbox
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,nodejs,express,dotnet,cs,postgres,mongodb,redis,prisma,nginx,docker,linux,git,github,gitlab,azure,aws,vercel,cloudflare,rabbitmq,kafka,flutter,dart,postman,jest,vitest&perline=11)](https://skillicons.dev)
 
-<p align="left">
-  <a href="https://dev.to/mobinrezaeifar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" /></a>
-  <a href="https://linkedin.com/in/mobinrezaeifar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-  <a href="https://stackoverflow.com/users/21860347/mobin-rezaeifar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" /></a>
-  <a href="https://instagram.com/mbnrz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobinrezaeifar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mobinrezaeifar&theme=tokyonight" />
-</p>
+### Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobinrezaeifar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="165" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=mobinrezaeifar&theme=transparent&hide_border=true" height="165" alt="streak" />
+</div>
