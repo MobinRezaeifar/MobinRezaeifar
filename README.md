@@ -1,5 +1,5 @@
 <h1 align="center">Mobin Rezaeifar</h1>
-<p align="center"><b>Tech Lead & Software Architect</b> · Web Platforms · Cloud · DX</p>
+<p align="center"><b>Tech Lead & Software Architect</b> · I build teams & systems that ship</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mbnrz"><img src="https://img.shields.io/badge/LinkedIn-mbnrz-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -9,68 +9,63 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Leading+teams+to+ship+reliable+software;Architecture%2C+delivery%2C+and+developer+experience;React%2FNext.js+%7C+.NET%2FNode.js+%7C+Cloud%2FContainers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Leading+teams+to+ship+reliable+software;Clarity%2C+delivery%2C+and+continuous+improvement;People+first%2C+then+systems" />
 </p>
 
-## Snapshot
-- Tech Lead focused on **clarity, delivery, and DX**. I design systems, align stakeholders, and keep feedback loops short.
-- Strengths: **architecture & trade-offs**, **team enablement**, **platform thinking**, **secure-by-default**.
-- Toolbox (hands-on when needed): React/Next.js, TypeScript, .NET/Node.js, containers, CI/CD, observability.
+## About me
+I’m a Tech Lead who enjoys turning ambiguity into outcomes. I align product, engineering, and stakeholders; make trade-offs explicit; and keep feedback loops short so teams can ship confidently.
 
-## Selected Impact
-- Led a squad of <N> engineers to ship <Product/Platform>, cutting lead time by **<XX>%** and reducing incidents by **<YY>%**.
-- Re-architected <system/service> (event-driven + caching) to handle **<X>×** traffic with **<Y>%** cost reduction.
-- Built an internal **DX platform** (templates, pipelines, docs) that bootstraps new services in **<Z> minutes**.
-- Mentored <N> engineers; **<N promotions / N cross-team moves>**.
+- **Strengths:** architecture & decision-making, enabling engineers, platform/operating models, secure-by-default thinking.  
+- **What I value:** clarity > cleverness, small batches, observability, and psychological safety.
 
-## Operating Principles
-- **Clarity first** (ADR, concise RFCs) · **Small batches** (trunk-based + CI) · **Observability before scale** · **Security by default**
+## What I’m doing now
+- Leading <team size & scope> on <domain/product>, partnering with <product/design/ops> to hit <business goal>.  
+- Mentoring engineers (growth plans, code reviews, incident drills) and improving ways-of-working.
 
-## Architecture (sample)
+## Outcomes I’m proud of
+- Cut lead time from commit→prod by **<XX>%**, while keeping change-failure rate under **<YY>%**.  
+- Scaled <system/domain> to **<X>×** traffic with **<Y>%** lower infra cost by simplifying the architecture.  
+- Reduced incident MTTR from **<A>h → <B>min** by introducing on-call runbooks and better alerts.  
+- Grew <N> engineers; **<M promotions / cross-team moves>** through structured mentoring.
+
+## How I lead
+- **Clarity first:** write concise RFCs/ADRs and define “Definition of Done” up front.  
+- **Small bets:** ship thin slices, measure impact, iterate fast.  
+- **Autonomy with alignment:** goals and guardrails are explicit; teams choose the “how”.  
+- **Operational excellence:** observability, SLOs, and incident learning—before scale.
+
+## Operating loop (my default)
 ```mermaid
 flowchart LR
-  Client[Web / Mobile] --> BFF[API Gateway / BFF]
-  BFF --> U[User Service]
-  BFF --> O[Order Service]
-  subgraph Data
-    PG[(Postgres)]
-    RD[(Redis)]
-    MQ[[Kafka/RabbitMQ]]
-  end
-  U --> PG
-  O --> PG
-  U --> RD
-  O --> MQ
-  subgraph Platform
-    CI[CI/CD]
-    OBS[Logs+Metrics+Tracing]
-  end
-  CI --> U
-  CI --> O
-  OBS --> U
-  OBS --> O
+  Idea[Idea / Problem] --> RFC[RFC & Trade-offs]
+  RFC --> Slice[Thin Slice Plan]
+  Slice --> Build[Build & Pairing]
+  Build --> CI[CI / Tests / Preview]
+  CI --> Ship[Release & Rollout]
+  Ship --> Observe[Metrics / Logs / Traces]
+  Observe --> Learn[Post-incident / Insights]
+  Learn --> Idea
 ```
 
-## Playbooks & Templates
-- **Engineering Playbook** — ways of working, branching, release & on-call → [`/engineering-playbook`](https://github.com/mobinrezaeifar/engineering-playbook)
-- **Service Template** — Next.js/.NET starter with CI, lint/test, container, CD → [`/service-template`](https://github.com/mobinrezaeifar/service-template)
-- **ADR/RFC Template** — lightweight decisions with context → [`/adr-template`](https://github.com/mobinrezaeifar/adr-template)
+## Decision principles
+- State constraints and risks; list real options; choose explicitly with a **review date**.  
+- Prefer boring tech for critical paths; innovate where it differentiates the product.  
+- Measure with a lightweight scorecard (Lead Time, Deployment Frequency, CFR, MTTR).
 
-## Talks & Writing
-- <Talk title> — <Conf/Meetup, 2025> · slides/demo → `<link>`
-- <Post title> — dev.to → `<link>`
-- <Podcast/Panel> — `<link>`
+## Speaking & writing
+- <Talk/Panel title> — <Event, 2025> → `<slides or video link>`  
+- Selected posts on dev.to → `<links>`
 
-## Tech Focus
-TypeScript · React/Next.js · .NET/Node.js · Redis/RabbitMQ/Kafka · PostgreSQL  
-Docker/K8s · Nginx · GitHub Actions · Observability (logs/metrics/traces)
+## Tech I’m comfortable with (hands-on when needed)
+TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Kafka/RabbitMQ) · Containers · CI/CD · Observability
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/mbnrz  
 - dev.to: https://dev.to/mobinrezaeifar  
 - Stack Overflow: https://stackoverflow.com/users/21860347  
+- Email: `<you@domain>` (optional)
 
-<sub>PS: lines of code and language charts don’t reflect leadership impact. See “Selected Impact” above.</sub>
+<sub>PS: Lines of code and language charts don’t reflect leadership impact. See “Outcomes I’m proud of”.</sub>
 
 <details>
   <summary>Optional GitHub stats (collapsed)</summary>
