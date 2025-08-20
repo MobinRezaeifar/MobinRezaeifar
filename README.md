@@ -30,17 +30,17 @@ I’m a Tech Lead who enjoys turning ambiguity into outcomes. I align product, e
 - **Autonomy with alignment:** goals and guardrails are explicit; teams choose the “how”.  
 - **Operational excellence:** observability, SLOs, and incident learning—before scale.
 
-## Operating loop (my default)
+## Operating loop
 ```mermaid
-flowchart LR
-  Idea[Idea / Problem] --> RFC[RFC & Trade-offs]
-  RFC --> Slice[Thin Slice Plan]
-  Slice --> Build[Build & Pairing]
-  Build --> CI[CI / Tests / Preview]
-  CI --> Ship[Release & Rollout]
-  Ship --> Observe[Metrics / Logs / Traces]
-  Observe --> Learn[Post-incident / Insights]
-  Learn --> Idea
+flowchart TD
+  A[💡 Idea / Problem] --> B[📝 RFC & Trade-offs]
+  B --> C[🧩 Thin Slice Planning]
+  C --> D[👥 Build & Pairing]
+  D --> E[🔁 CI / Tests / Preview]
+  E --> F[🚀 Release & Rollout]
+  F --> G[📊 Observe (Metrics / Logs / Traces)]
+  G --> H[🔍 Learn (Post-incident / Insights)]
+  H --> A
 ```
 
 ## Working with me
