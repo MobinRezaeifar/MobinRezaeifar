@@ -1,6 +1,6 @@
 <h1 align="center">Mobin Rezaeifar</h1>
 <p align="center"><b>Tech Lead & Software Architect</b> · I build teams & systems that ship</p>
-<sub align="center"><b>Currently no public repos due to active involvement in company projects.</sub>
+<p align="center"><sub><b>Currently no public repos due to active involvement in company projects.</b></sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mbnrz"><img src="https://img.shields.io/badge/LinkedIn-mbnrz-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -8,6 +8,7 @@
   <a href="https://stackoverflow.com/users/21860347"><img src="https://img.shields.io/badge/Stack%20Overflow-21860347-F48024?logo=stackoverflow&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=mobinrezaeifar&label=Profile%20Views&color=1f6feb" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Leading+teams+to+ship+reliable+software;Clarity%2C+delivery%2C+and+continuous+improvement;People+first%2C+then+systems" />
