@@ -59,8 +59,6 @@ TypeScript · React/Next.js · .NET/Node.js · PostgreSQL/Redis · Messaging (Ka
 - Stack Overflow: https://stackoverflow.com/users/21860347  
 - Email: mbnrz.dev@gmail.com
 
-<sub>PS: Lines of code and language charts don’t reflect leadership impact. See “Outcomes I’m proud of”.</sub>
-
 <details>
   <summary>Optional GitHub stats (collapsed)</summary>
   <p align="left">
