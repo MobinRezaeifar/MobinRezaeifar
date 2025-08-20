@@ -62,9 +62,9 @@ flowchart TD
 - **Frontend (when needed):** React · Next.js · Micro-Frontend orchestration  
 - **Datastores:** PostgreSQL · Redis  
 - **DevOps & Infrastructure:** Docker · Docker Swarm · Kubernetes · Helm · GitHub Actions · ArgoCD · Infrastructure as Code (Terraform)  
+- **Testing Excellence:** Unit · Integration · End-to-End (E2E) · Contract Testing · TDD/BDD (Jest, Mocha, xUnit, Cypress, Playwright)  
 - **Observability & Reliability:** Prometheus · Grafana · OpenTelemetry · SLO/SLA management · Chaos Engineering  
 - **Security & Compliance:** Secure-by-default design · OWASP best practices · Identity & Access Management · Secrets management (Vault/KMS) · Threat modeling · Zero Trust principles
-
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/mbnrz  
