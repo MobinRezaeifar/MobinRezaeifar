@@ -35,16 +35,16 @@ I’m a Tech Lead who enjoys turning ambiguity into outcomes. I align product, e
 ## Operating loop
 ```mermaid
 flowchart TD
-  A["💡 Idea / Problem"] --> B["📊 Business Understanding & Alignment"]
-  B --> C["📝 RFC & Trade-offs"]
-  C --> D["🧩 Thin Slice Planning"]
-  D --> E["👥 Build & Pairing"]
-  E --> F["✅ CI · Tests · Preview"]
-  F --> G["🚀 Release & Rollout"]
-  G --> H["📈 Observe<br/>Metrics · Logs · Traces"]
-  H --> I["🔍 Learn<br/>Post-incident · Insights"]
+  A["Idea / Problem"] --> B["Business Alignment & Context Mapping"]
+  B --> C["Technical Design (RFCs / Trade-offs)"]
+  C --> D["Planning Thin Vertical Slices"]
+  D --> E["Collaborative Implementation (Pairing)"]
+  E --> F["CI / Automated Testing / Preview Envs"]
+  F --> G["Progressive Delivery & Rollout"]
+  G --> H["Monitoring & Observability<br/>(Metrics / Logs / Traces)"]
+  H --> I["Continuous Learning<br/>(Postmortems / Insights)"]
   I --> A
-  classDef primary fill:#0d1117,stroke:#1f6feb,stroke-width:1px,color:#c9d1d9,rx:6,ry:6
+  classDef primary fill:#0d1117,stroke:#1f6feb,stroke-width:1px,color:#c9d1d9,rx:6,ry:6,font-size:14px
   class A,B,C,D,E,F,G,H,I primary
 ```
 
