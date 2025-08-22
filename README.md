@@ -70,7 +70,7 @@ flowchart TD
 - LinkedIn: https://www.linkedin.com/in/mbnrz  
 - dev.to: https://dev.to/mobinrezaeifar  
 - Stack Overflow: https://stackoverflow.com/users/21860347  
-- Email: mbnrz.dev@gmail.com
+- Email: mobinrezaeifar@gmail.com
 
 <details>
   <summary>Optional GitHub stats (collapsed)</summary>
