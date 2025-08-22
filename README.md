@@ -1,5 +1,5 @@
 <h1 align="center">Mobin Rezaeifar</h1>
-<p align="center"><b>Tech Lead & Software Architect</b> · I build teams & systems that ship</p>
+<p align="center"><b>Tech Lead & Software Engineer</b> · I build teams & systems that ship</p>
 <p align="center"><sub><b>Currently no public repos due to active involvement in company projects.</b></sub></p>
 
 <p align="center">
