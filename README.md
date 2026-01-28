@@ -58,9 +58,9 @@ flowchart TD
 
 ## Tech I’m comfortable with
 - **Architecture & Design:** Domain-Driven Design (DDD) · Event-Driven Architecture (EDA) · Microservices · Micro-Frontends · Clean Architecture · CQRS · Hexagonal / Onion Architecture  
-- **Backend Platforms:** .NET · Node.js · TypeScript · Event-driven systems (Kafka/RabbitMQ)  
-- **Frontend (when needed):** React · Next.js · Micro-Frontend orchestration  
-- **Datastores:** PostgreSQL · Redis  
+- **Backend :** .NET · Node.js · Event-driven systems (Kafka/RabbitMQ)  
+- **Frontend :** React · Next.js · Svelte · Micro-Frontend orchestration  
+- **Datastores:** PostgreSQL · Redis · MongoDb · SQL
 - **DevOps & Infrastructure:** Docker · Docker Swarm · Kubernetes · Helm · GitHub Actions · ArgoCD · Infrastructure as Code (Terraform)  
 - **Testing Excellence:** Unit · Integration · End-to-End (E2E) · Contract Testing · TDD/BDD (Jest, Mocha, xUnit, Cypress, Playwright)  
 - **Observability & Reliability:** Prometheus · Grafana · OpenTelemetry · SLO/SLA management · Chaos Engineering  
