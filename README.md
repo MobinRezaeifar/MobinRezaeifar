@@ -1,145 +1,198 @@
 <h1 align="center">Mobin Rezaeifar</h1>
 
 <p align="center">
-  <b>Tech Lead · Software Engineer · AI & Agentic Systems Builder</b>
+  <strong>AI Systems Architect · Tech Lead · Hands-on Software Engineer</strong>
 </p>
 
 <p align="center">
-  Building reliable software, capable engineering teams, and AI systems that interact with the real world.
+  I design intelligent systems, build the software behind them, and lead the teams that take them to production.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mbnrz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mbnrz-0A66C2?logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://dev.to/mobinrezaeifar"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-@mobinrezaeifar-0A0A0A?logo=devdotto&amp;logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/21860347"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-21860347-F48024?logo=stackoverflow&amp;logoColor=white" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mobinrezaeifar&amp;label=Profile%20Views&amp;color=1f6feb" />
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI-Agentic%20Systems-7C3AED?style=flat-square" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Vision-Real--World%20Intelligence-2563EB?style=flat-square" />
+  <img alt="Software Architecture" src="https://img.shields.io/badge/Engineering-Distributed%20Systems-0F766E?style=flat-square" />
+  <img alt="Technical Leadership" src="https://img.shields.io/badge/Leadership-Hands--On-334155?style=flat-square" />
 </p>
 
 <p align="center">
-  <img alt="What I build" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=19&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Engineering+AI+agents+that+use+real+tools;Connecting+cameras%2C+computer+vision%2C+and+operations;Leading+teams+to+ship+reliable+software;From+system+architecture+to+production+delivery" />
+  <a href="https://www.linkedin.com/in/mbnrz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mbnrz-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://dev.to/mobinrezaeifar"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-@mobinrezaeifar-0A0A0A?style=flat-square&amp;logo=devdotto&amp;logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21860347"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-21860347-F48024?style=flat-square&amp;logo=stackoverflow&amp;logoColor=white" /></a>
+  <a href="mailto:mobinrezaeifar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-475569?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mobinrezaeifar&amp;label=Profile%20Views&amp;color=1f6feb&amp;style=flat-square" />
 </p>
 
-<p align="center"><sub>Most of my recent work is part of active company projects, so public repositories do not represent the full scope of my engineering work.</sub></p>
+<p align="center">
+  <img alt="Engineering focus" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=18&amp;pause=1100&amp;center=true&amp;vCenter=true&amp;width=960&amp;lines=Agents+that+reason%2C+use+tools%2C+and+complete+workflows;Software+that+connects+AI+to+real-world+operations;From+architecture+and+hands-on+code+to+production;Building+teams%2C+platforms%2C+and+systems+that+last" />
+</p>
 
-## About Me
+<p align="center"><sub>Much of my work is developed within active company projects and private repositories. Public GitHub activity shows only a small part of what I build.</sub></p>
 
-I'm a hands-on Tech Lead and Software Engineer working at the intersection of **software architecture, AI agents, computer vision, and engineering leadership**. I enjoy turning complex business problems into maintainable systems, connecting emerging AI capabilities to real products, and helping teams ship with confidence.
+---
 
-My work increasingly focuses on **agentic AI**: systems that do more than generate text. I'm interested in agents that use tools, interact with APIs, reason over context, coordinate multi-step workflows, and operate within clear reliability and security boundaries.
+## Beyond the Stack
 
-I have also worked on **camera-connected taxi projects**, including integration with cameras at taxi parking facilities for detecting potential collision incidents. That experience strengthened my interest in systems where software, video intelligence, and physical-world operations meet.
+I'm a **hands-on technical leader** working across **AI engineering, software architecture, computer vision, distributed platforms, and product delivery**. I enjoy the entire lifecycle: understanding an operational problem, defining its architecture, implementing the difficult pieces, shipping safely, and improving the system with real feedback.
 
-- **Engineering focus:** AI agents, system architecture, backend platforms, computer vision integration, and delivery engineering.
-- **Leadership approach:** technical clarity, ownership, mentoring, practical trade-offs, and short feedback loops.
-- **What I value:** reliable outcomes over hype, simple designs over unnecessary complexity, and measurable improvements over impressive-sounding technology.
+AI has become a central part of how I design and build software. My focus is not limited to model APIs or chat interfaces. I work on **agentic systems** that combine language models, tools, data, software services, and controlled execution to get meaningful work done.
 
-## Selected Engineering Work
+One example is integrating **existing cameras in taxi parking environments** into software workflows for identifying potential collision events. That is one illustration of the larger class of problems I enjoy: turning signals from the physical world into useful, reviewable actions inside operational software.
 
-### AI Agents & Intelligent Automation
+I work at two levels simultaneously:
 
-I work on moving AI from a chat interface into **tool-connected, task-oriented software**.
+- **As an engineer:** I design architectures, write code, integrate systems, investigate failures, and solve complex implementation problems.
+- **As a technical leader:** I shape engineering direction, align technical decisions with business needs, mentor developers, and build delivery practices that help teams move confidently.
 
-- Designing agent workflows with clear objectives, context, tool access, and execution boundaries.
-- Integrating LLM-powered components with existing applications, backend services, and external APIs.
-- Exploring orchestration patterns for multi-step tasks, tool calling, state management, and structured outputs.
-- Treating evaluation, failure handling, observability, and human oversight as core engineering concerns.
-- Combining probabilistic AI capabilities with deterministic services and business rules.
+## What I Build
 
-### Taxi Parking Camera Intelligence
+| Domain | Engineering focus |
+| :--- | :--- |
+| **Agentic AI & Intelligent Automation** | Tool-using agents, multi-step orchestration, multi-agent patterns, contextual workflows, AI-assisted operations, and application integration |
+| **Computer Vision & Video Intelligence** | Camera-to-software integration, video ingestion, event detection workflows, incident triage, evidence review, and operational alerts |
+| **Operational & Mobility Systems** | Real-world business processes, transportation-related workflows, event-driven services, integrations, and operational visibility |
+| **Enterprise & Product Platforms** | Backend services, business applications, ERP/CRM-style workflows, data-intensive systems, and customer-facing products |
+| **Cloud & Distributed Architecture** | Service boundaries, messaging, observability, security, infrastructure automation, and scalable deployment practices |
+| **Engineering Leadership** | Technical strategy, architecture decisions, hands-on execution, code quality, developer enablement, and iterative delivery |
 
-A practical application of AI and software integration in taxi-related operations.
+## AI Engineering: From Models to Actions
 
-- Connected existing cameras in taxi parking areas to software workflows aimed at identifying possible collisions and incidents.
-- Worked with the challenges of extracting useful event signals from real-world camera footage.
-- Focused on the bridge between video analysis and actionable operational information, where reviewability and false-positive handling matter.
-- Considered how camera inputs, event analysis, backend services, and human review fit together as one maintainable system.
+I approach AI as a software engineering discipline. The difficult work starts after a model gives a convincing answer: the system still needs to access the right data, execute the right tools, recover from failures, enforce permissions, and prove that the task was completed correctly.
 
-**Reference architecture for this class of system:**
+### Capabilities I Focus On
+
+- **Agent orchestration:** task decomposition, multi-step execution, agent collaboration patterns, routing, and stateful workflows.
+- **Tool and system integration:** function calling, API-connected agents, MCP-style tool interfaces, database access, and business-system automation.
+- **Context engineering:** retrieval-augmented generation, memory strategies, grounding, structured context, and knowledge integration.
+- **Multimodal workflows:** combining text, images, video-related signals, and structured operational data.
+- **Reliability and evaluation:** testable outputs, tracing, fallbacks, retries, failure analysis, and human review where needed.
+- **Safe execution:** permissions, bounded tool access, secrets handling, auditability, and approval steps for consequential actions.
+- **AI-assisted engineering:** using advanced AI tooling throughout software design, coding, debugging, testing, review, and documentation.
+
+### A Reference Pattern for Production Agents
 
 ```mermaid
 flowchart LR
-    A[Parking Cameras] --> B[Video Ingestion]
-    B --> C[Frame and Event Analysis]
-    C --> D[Potential Incident Detection]
-    D --> E[Confidence and Business Rules]
-    E --> F[Human Review]
-    F --> G[Incident Records and Operations]
-    G --> H[Feedback and Improvement]
-    H --> C
+    A[User or Business Event] --> B[Agent Orchestrator]
+    B --> C[Context and Retrieval]
+    B --> D[Planning and Tool Selection]
+    C --> D
+    D --> E[Permissions and Guardrails]
+    E --> F[APIs, Data and Business Tools]
+    F --> G[Validation and Evaluation]
+    G --> H{Approval Needed?}
+    H -->|Yes| I[Human Review]
+    H -->|No| J[Complete Workflow]
+    I --> J
+    J --> K[Observability and Feedback]
+    K --> B
 ```
 
-### Platform Engineering & Technical Leadership
+The objective is **dependable task completion**, not simply impressive model output.
 
-Alongside AI-focused work, I build and improve the software foundations that allow teams to deliver consistently.
+## Computer Vision Meets Operational Software
 
-- Translating product goals into architecture, delivery plans, and engineering decisions.
-- Building backend and frontend systems with an emphasis on reliability, maintainability, and security.
-- Improving CI/CD, observability, incident response, and cross-team collaboration.
-- Coaching engineers and making complex technical choices understandable to stakeholders.
+Connecting cameras to software creates a different class of engineering challenges: imperfect footage, continuous streams, uncertain classifications, event timing, operational noise, and the need for human-verifiable outcomes.
 
-## Outcomes I'm Proud Of
+My taxi-parking collision-detection work is one example of integrating visual inputs with an operational process. The broader design approach applies to many camera-connected environments where meaningful events need to be surfaced and reviewed.
 
-- Reduced commit-to-production lead time by **38%** while maintaining a change-failure rate below **9%** through safer release practices.
-- Supported **4× traffic growth** in a customer-facing domain while reducing infrastructure costs by **28%** through architectural simplification.
-- Improved incident response, reducing mean time to recovery from **3 hours to 25 minutes** with better alerts, runbooks, and reviews.
-- Mentored **8 engineers**, contributing to **3 promotions** and **2 cross-team moves** through structured development and coaching.
+```mermaid
+flowchart LR
+    A[Connected Cameras] --> B[Stream Ingestion]
+    B --> C[Video and Event Analysis]
+    C --> D[Potential Incident Signals]
+    D --> E[Rules and Confidence Handling]
+    E --> F[Review and Verification]
+    F --> G[Alerts and Operational Workflows]
+    G --> H[Feedback and System Improvement]
+```
 
-## How I Approach AI Engineering
+I care about what happens **after detection**: whether an event is actionable, how operators can review it, how systems avoid unnecessary escalation, and how the workflow remains maintainable as complexity grows.
 
-| Principle | What it means in practice |
-| --- | --- |
-| **Tools over theatrics** | Agents should complete useful tasks through well-defined tool and API integrations. |
-| **Context is infrastructure** | Reliable behavior depends on the right data, state, retrieval, and boundaries. |
-| **Human oversight by design** | Sensitive or uncertain actions need review, permissions, and escalation paths. |
-| **Evaluate, don't assume** | Test task success, error patterns, and failure modes instead of relying on demos. |
-| **Observable execution** | Make agent steps, decisions, errors, and costs inspectable. |
-| **Production-minded systems** | Build for retries, timeouts, idempotency, data protection, and maintainability. |
+## The Engineering Problems I Enjoy
 
-## How I Lead
+**Building useful agents.** Connecting models to real products and tools, with the safeguards and execution logic that make automation practical.
 
-- **Clarity first:** document trade-offs, write concise RFCs/ADRs, and define what successful delivery looks like.
-- **Small, reversible steps:** deliver working slices, gather feedback, and improve based on evidence.
-- **Autonomy with alignment:** make goals and guardrails explicit while giving engineers ownership of solutions.
-- **Operational excellence:** treat monitoring, security, release quality, and incident learning as part of product development.
-- **People and systems together:** create an environment where engineers can challenge assumptions and do their best work.
+**Turning messy inputs into reliable workflows.** Bridging cameras, external services, operational events, data stores, and human decisions.
 
-## Engineering Delivery Loop
+**Making complex architectures simpler.** Finding the right boundaries, reducing unnecessary coupling, and designing systems teams can evolve.
+
+**Shipping without losing control.** Improving automated testing, release discipline, observability, incident handling, and secure defaults.
+
+**Developing engineers while delivering software.** Pairing hands-on technical work with mentoring, decision clarity, and ownership.
+
+## Engineering Impact
+
+I measure engineering work by **outcomes, not technology counts**. The metrics I care about include lead time, deployment reliability, recovery time, system capacity, operational cost, model-task success, and how effectively a team can maintain what it ships.
+
+<details>
+<summary><strong>Example impact scorecard for a public portfolio</strong></summary>
+
+The following figures are **illustrative presentation examples, not verified claims about my work**. They should be replaced with confirmed project data before being presented as personal achievements.
+
+| Example metric | Illustrative figure | How it would be measured |
+| :--- | ---: | :--- |
+| Faster commit-to-production delivery | **38%** | Median lead-time comparison across release windows |
+| Higher supported platform traffic | **4×** | Sustained throughput under defined reliability targets |
+| Reduced infrastructure spending | **28%** | Comparable monthly infrastructure cost before and after changes |
+| Faster incident recovery | **3h → 25m** | Median mean time to recovery across comparable incidents |
+| Engineers supported through mentoring | **8** | Documented mentorship and development activity |
+
+</details>
+
+In real projects, I prioritize improvements that can be explained through a baseline, a deliberate technical change, and an observable result.
+
+## How I Lead and Deliver
+
+- **Stay hands-on:** leadership should remain close enough to the code and architecture to understand difficult trade-offs.
+- **Make decisions legible:** use concise technical proposals, ADRs, explicit constraints, and defined success criteria.
+- **Build small, learn quickly:** deliver thin vertical slices, validate assumptions, and prefer reversible changes.
+- **Keep AI accountable:** design evaluations and oversight into agent workflows rather than adding them at the end.
+- **Engineer for operations:** instrumentation, alerts, incident response, and security belong in the initial design.
+- **Scale people, not just software:** share context, create ownership, support mentorship, and avoid unnecessary process.
+
+### My Delivery Loop
 
 ```mermaid
 flowchart TD
-    A[Problem and Business Context] --> B[Requirements and Constraints]
-    B --> C[Architecture and Trade-offs]
-    C --> D[Small Deliverable Increments]
-    D --> E[Implementation and Code Review]
-    E --> F[Automated Tests and CI]
-    F --> G[Controlled Release]
-    G --> H[Metrics, Logs and Traces]
-    H --> I[Feedback and Continuous Improvement]
-    I --> A
+    A[Problem and Business Context] --> B[System Design and Trade-offs]
+    B --> C[Proof of Value and Risk Reduction]
+    C --> D[Incremental Implementation]
+    D --> E[Review, Testing and Evaluation]
+    E --> F[Controlled Production Release]
+    F --> G[Metrics, Traces and User Feedback]
+    G --> H[Learn and Improve]
+    H --> A
 ```
 
-## Technical Toolkit
+## Technical Landscape
 
-| Area | Technologies and practices |
-| --- | --- |
-| **AI & Agents** | LLM integration, agent orchestration, tool calling, context engineering, structured outputs, workflow automation, evaluation, human-in-the-loop design |
-| **Computer Vision & Video Systems** | Camera integration, video ingestion concepts, event-oriented analysis, collision/incident detection workflows |
-| **Architecture** | Domain-Driven Design, Event-Driven Architecture, Microservices, Micro-Frontends, Clean Architecture, CQRS, Hexagonal/Onion Architecture |
-| **Backend** | .NET, Node.js, Kafka, RabbitMQ, API design |
-| **Frontend** | React, Next.js, Svelte, Micro-Frontend orchestration |
-| **Data** | PostgreSQL, Redis, MongoDB, SQL |
-| **DevOps & Infrastructure** | Docker, Docker Swarm, Kubernetes, Helm, GitHub Actions, Argo CD, Terraform |
-| **Quality Engineering** | Unit, Integration, E2E and Contract Testing, TDD/BDD, Jest, Mocha, xUnit, Cypress, Playwright |
-| **Observability** | Prometheus, Grafana, OpenTelemetry, SLIs/SLOs, incident management |
-| **Security** | OWASP, IAM, secrets management, Vault/KMS, threat modeling, Zero Trust principles |
+The technologies below describe areas in my engineering toolkit. I choose tools based on system constraints rather than treating a stack as an identity.
 
-## Working With Me
+| Discipline | Technologies and practices |
+| :--- | :--- |
+| **AI & Agent Systems** | LLM integration, agent orchestration, tool/function calling, MCP concepts, RAG, context engineering, structured outputs, evaluation, human-in-the-loop workflows |
+| **Architecture** | Domain-Driven Design, Clean Architecture, Event-Driven Architecture, CQRS, Hexagonal/Onion Architecture, microservices, micro-frontends |
+| **Backend** | .NET, C#, Node.js, API design, Kafka, RabbitMQ |
+| **Frontend** | React, Next.js, Svelte, component-driven architecture |
+| **Data** | PostgreSQL, MongoDB, Redis, SQL, data modeling and caching |
+| **Infrastructure** | Docker, Docker Swarm, Kubernetes, Helm, GitHub Actions, Argo CD, Terraform |
+| **Quality** | Unit, integration, end-to-end and contract testing, xUnit, Jest, Mocha, Cypress, Playwright, TDD/BDD |
+| **Observability** | OpenTelemetry, Prometheus, Grafana, logging, tracing, SLOs, incident response |
+| **Security** | OWASP, IAM, secrets management, Vault/KMS concepts, threat modeling, Zero Trust principles |
+| **Real-World Systems** | Camera integration, video pipelines, event processing, operational alerts, reviewable incident workflows |
 
-I prefer teams that share context early, write down significant decisions, and take ownership of the complete delivery lifecycle. I favor practical experimentation without sacrificing engineering discipline: **build, verify, observe, learn, improve**.
+## Currently Interested In
 
-I'm especially interested in projects that combine **AI agents with operational software, real-world data, video systems, and scalable backend architecture**.
+- AI-native products in which agents can operate across real business workflows.
+- More reliable multimodal and computer-vision-assisted operational systems.
+- Better evaluation and observability for tool-using AI agents.
+- Software architectures that keep the power of automation without sacrificing control.
+- Engineering organizations where technical depth and leadership reinforce one another.
 
-## Contact
+## Let's Connect
+
+I enjoy conversations about **agentic AI, intelligent systems, difficult architecture decisions, platform engineering, and building software that solves operational problems**.
 
 - **LinkedIn:** [linkedin.com/in/mbnrz](https://www.linkedin.com/in/mbnrz)
 - **dev.to:** [dev.to/mobinrezaeifar](https://dev.to/mobinrezaeifar)
@@ -147,12 +200,15 @@ I'm especially interested in projects that combine **AI agents with operational 
 - **Email:** [mobinrezaeifar@gmail.com](mailto:mobinrezaeifar@gmail.com)
 
 <details>
-  <summary>GitHub activity</summary>
-  <p align="left">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mobinrezaeifar&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" />
-    <img height="165" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=mobinrezaeifar&amp;theme=transparent&amp;hide_border=true" />
-  </p>
-  <p align="left">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" />
-  </p>
+<summary><strong>GitHub activity</strong></summary>
+
+<p align="left">
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=mobinrezaeifar&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" />
+  <img height="165" alt="GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=mobinrezaeifar&amp;theme=transparent&amp;hide_border=true" />
+</p>
+
+<p align="left">
+  <img height="165" alt="Top public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinrezaeifar&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" />
+</p>
+
 </details>
